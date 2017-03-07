@@ -1,0 +1,98 @@
+Z:\IHM - Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+Z:\IHM - Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+Z:\IHM - Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+Z:\IHM - Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.FormEnregistrerJoueur.resources
+Z:\IHM - Visual Basic\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+C:\Users\masson\Downloads\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.FormEnregistrerJoueur.resources
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.FormEnregistrerJoueur.resources
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Lucas\Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Lucas\Desktop\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\Lucas\Desktop\Projet\Projet\obj\Debug\Projet.exe
+K:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.exe.config
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.exe
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.xml
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.pdb
+K:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.exe
+K:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.pdb
+K:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.xml
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormEnregistrerJoueur.resources
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.Resources.resources
+K:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+E:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.exe.config
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.exe
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.xml
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.pdb
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormEnregistrerJoueur.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.Resources.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.Statistiques.resources
+E:\IHM - PROJET\Projet\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+E:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.exe
+E:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.pdb
+E:\IHM - PROJET\Projet\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\Users\masson\Downloads\Projet\Projet\obj\Debug\Projet.Statistiques.resources
+C:\Users\masson\Downloads\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\masson\Downloads\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\masson\Downloads\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.Statistiques.resources
+C:\Users\masson.IUTPARIS\Downloads\27v5-2016-05-27\27v5\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.vbprojResolveAssemblyReference.cache
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.FormPrincipale.resources
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.FormReponseMaitre.resources
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.MenuGen.resources
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.Statistiques.resources
+C:\Users\masson.IUTPARIS\Downloads\Projet-2016-05-27\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
